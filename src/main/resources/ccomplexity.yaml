@@ -1,0 +1,34 @@
+array:
+  binarySearch: O(log n)
+  twoPointer: O(n)
+  Fast & Slow Pointers: O(n)
+  Two Pointers: O(n)
+  QuickSelect: O(n) average, O(n²) worst
+  Heap: O(n log k)
+  Quick Sort: O(n log n) average, O(n²) worst
+  Merge Sort: O(n log n)
+  Built-in sorts: O(n log n)
+
+tree:
+  DFS (Preorder, Inorder, Postorder): O(n)
+  BFS (Level Order): TC O(n) visit every node once, SC O(N)
+  Inorder Traversal visits the nodes in ascending (sorted) order: O(n)
+  Morris Traversal: O(n)
+
+Graph:
+  DFS (Recursion, Stack): O(n)
+  BFS (Queue): O(n)
+  BFS (non-weighted): O(n)
+  Dijkstra (weighted): O(E log V)
+  Bellman-Ford (weighted, negative): O(VE)
+  prims:
+  kruskal:
+  topologicalSort:
+  Floyd-Warshall (all pairs shortest path):
+  disjointSet:
+
+
+string:
+  StringBuilder: O(n)
+
+commonPatterns:
